@@ -1,0 +1,19 @@
+{
+  "name": "radio",
+  "version": "1.0.0",
+  "description": "An abstraction of window.postMessage, used for communicating between two or more windows.",
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "bluebird": "^3.4.1",
+    "underscore": "^1.8.3",
+    "requirejs": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bflemi3/radio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bflemi3/radio/issues"
+  },
+  "homepage": "https://github.com/bflemi3/radio#readme"
+}
